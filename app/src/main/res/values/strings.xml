@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShijinNewsApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_headlines">Headlines</string>
+    <string name="tab_technology">Technology</string>
+    <string name="tab_sports">Sports</string>
+    <string name="tab_business">Business</string>
+    <string name="tab_world">World</string>
+    <string name="tab_entertainment">Entertainment</string>
+    <string name="tab_science">Science</string>
+
+</resources>
